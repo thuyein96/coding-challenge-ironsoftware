@@ -38,11 +38,11 @@ Simulate text entry on an old mobile phone keypad, supporting:
 Tool: "I would use GitHub Copilot Chat or ChatGPT (GPT-4)."
 
 The Prompt: 
-> Here is my completed C# solution for the OldPhoneKeypad challenge, along with my xUnit test project.
+> Here is my completed C# solution for the OldPhonePad challenge, along with my xUnit test project.
 > Please act as a senior software engineer conducting a code review.
-> Review my OldPhoneKeypad method for clarity, efficiency, and adherence to C# best practices.
+> Review my OldPhonePad method for clarity, efficiency, and adherence to C# best practices.
 > Suggest any refactorings that would make the code more 'production-ready,' stable, or easier to maintain.
-> Review my unit tests. Are there any critical edge cases that I have missed?
+> Review my unit tests. Are there any critical cases that I have missed?
 > Help me write the XML documentation for my public method."
 
 ## 🏗️ Tech Stack
