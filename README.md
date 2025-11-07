@@ -2,8 +2,6 @@
 
 This is a C# implementation of the **Iron Software coding challenge**, simulating typing on an old mobile phone keypad.
 
----
-
 ## 🧩 Problem Description
 
 Each numeric button on the old phone represents multiple letters.
