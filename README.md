@@ -19,10 +19,10 @@ OldPhoneKeypad/
 ├── OldPhoneKeypad
 | └── Program.cs # Main entry point
 | └── Services/
-│   └── OldPhoneService.cs # Core logic class
-├── OldPhoneKeypad.Tests/ # xUnit test project
-| └── OldPhoneServiceTests.cs # Core logic class
-├── OldPhoneKeypad.sln # Visual Studio solution
+│   └── OldPhoneService.cs 
+├── OldPhoneKeypad.Tests/ 
+| └── OldPhoneServiceTests.cs 
+├── OldPhoneKeypad.sln
 └── README.md
 
 ## 🧠 Problem
@@ -57,7 +57,7 @@ The Prompt:
 
 ## 🧩 Run the Application
 ```bash
-dotnet run --project OldPhonePad
+dotnet run --project OldPhoneKeypad
 ```
 Then enter your sequence, for example:
 ```
