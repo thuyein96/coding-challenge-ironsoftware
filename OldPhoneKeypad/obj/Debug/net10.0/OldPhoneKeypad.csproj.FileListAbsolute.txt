@@ -1,0 +1,15 @@
+C:\Users\thuye\source\repos\coding-challenge-ironsoftware\OldPhoneKeypad\obj\Debug\net10.0\OldPhoneKeypad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thuye\source\repos\coding-challenge-ironsoftware\OldPhoneKeypad\obj\Debug\net10.0\OldPhoneKeypad.AssemblyInfoInputs.cache
+C:\Users\thuye\source\repos\coding-challenge-ironsoftware\OldPhoneKeypad\obj\Debug\net10.0\OldPhoneKeypad.AssemblyInfo.cs
+C:\Users\thuye\source\repos\coding-challenge-ironsoftware\OldPhoneKeypad\obj\Debug\net10.0\OldPhoneKeypad.csproj.CoreCompileInputs.cache
+C:\Users\thuye\source\repos\coding-challenge-ironsoftware\OldPhoneKeypad\obj\Debug\net10.0\OldPhoneKeypad.sourcelink.json
+C:\Users\thuye\source\repos\coding-challenge-ironsoftware\OldPhoneKeypad\bin\Debug\net10.0\OldPhoneKeypad.exe
+C:\Users\thuye\source\repos\coding-challenge-ironsoftware\OldPhoneKeypad\bin\Debug\net10.0\OldPhoneKeypad.deps.json
+C:\Users\thuye\source\repos\coding-challenge-ironsoftware\OldPhoneKeypad\bin\Debug\net10.0\OldPhoneKeypad.runtimeconfig.json
+C:\Users\thuye\source\repos\coding-challenge-ironsoftware\OldPhoneKeypad\bin\Debug\net10.0\OldPhoneKeypad.dll
+C:\Users\thuye\source\repos\coding-challenge-ironsoftware\OldPhoneKeypad\bin\Debug\net10.0\OldPhoneKeypad.pdb
+C:\Users\thuye\source\repos\coding-challenge-ironsoftware\OldPhoneKeypad\obj\Debug\net10.0\OldPhoneKeypad.dll
+C:\Users\thuye\source\repos\coding-challenge-ironsoftware\OldPhoneKeypad\obj\Debug\net10.0\refint\OldPhoneKeypad.dll
+C:\Users\thuye\source\repos\coding-challenge-ironsoftware\OldPhoneKeypad\obj\Debug\net10.0\OldPhoneKeypad.pdb
+C:\Users\thuye\source\repos\coding-challenge-ironsoftware\OldPhoneKeypad\obj\Debug\net10.0\OldPhoneKeypad.genruntimeconfig.cache
+C:\Users\thuye\source\repos\coding-challenge-ironsoftware\OldPhoneKeypad\obj\Debug\net10.0\ref\OldPhoneKeypad.dll
