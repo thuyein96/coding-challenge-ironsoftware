@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OldPhoneKeypad")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2486bc09f6223aba0a4f0d1fbd425171f2148355")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+92f11a76a75d7b9de045df5eb6bdef26d940677b")]
 [assembly: System.Reflection.AssemblyProductAttribute("OldPhoneKeypad")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OldPhoneKeypad")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

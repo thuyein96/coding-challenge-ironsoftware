@@ -2,8 +2,27 @@
 
 namespace OldPhoneKeypad.Services;
 
+/// <summary>
+/// Provides functionality to simulate typing on an old mobile phone keypad.
+/// </summary>
 public static class OldPhoneService
 {
+    /// <summary>
+    /// Converts a numeric input sequence (simulating old phone pad presses)
+    /// into the corresponding text message.
+    /// </summary>
+    /// <param name="input">
+    /// The raw input string, containing digits (0–9),
+    /// spaces (for pause), '*' for backspace, and '#' for send.
+    /// </param>
+    /// <returns>
+    /// The translated text message. If the input is empty or invalid, returns an empty string.
+    /// </returns>
+    /// <example>
+    /// <code>
+    /// OldPhoneService.ConvertInput("4433555 555666#")  // returns "HELLO"
+    /// </code>
+    /// </example>
     public static string ConvertInput(string input)
     {
         if (string.IsNullOrWhiteSpace(input))
@@ -22,7 +41,7 @@ public static class OldPhoneService
                         result.Append(GetLetter(lastChar, count));
                     return result.ToString();
 
-                case '*': 
+                case '*':
                     if (lastChar != '\0')
                     {
                         lastChar = '\0';
@@ -64,6 +83,12 @@ public static class OldPhoneService
         return result.ToString();
     }
 
+    /// <summary>
+    /// Maps a single numeric key press sequence to its corresponding character.
+    /// </summary>
+    /// <param name="key">The numeric key pressed (0–9).</param>
+    /// <param name="count">The number of times the key was pressed consecutively.</param>
+    /// <returns>The corresponding character, cycling if pressed too many times.</returns>
     private static char GetLetter(char key, int count)
     {
         string letters = key switch
