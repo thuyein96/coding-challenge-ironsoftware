@@ -14,17 +14,19 @@ Example:
 222 2 22# -> "CAB"
 
 ## 🏗️ Project Structure
-
+```
 OldPhoneKeypad/
-├── OldPhoneKeypad
-| └── Program.cs # Main entry point
-| └── Services/
-│   └── OldPhoneService.cs 
+├── OldPhoneKeypad/
+│ ├── Program.cs
+│ └── Services/
+│ └── OldPhoneService.cs
+│
 ├── OldPhoneKeypad.Tests/ 
-| └── OldPhoneServiceTests.cs 
-├── OldPhoneKeypad.sln
+│ └── OldPhoneServiceTests.cs 
+│
+├── OldPhoneKeypad.sln 
 └── README.md
-
+```
 ## 🧠 Problem
 Simulate text entry on an old mobile phone keypad, supporting:
 - Multi-tap letters
